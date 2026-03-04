@@ -39,6 +39,11 @@ a,
 table.table a {
   color: var(--global-theme-color);
 
+  strong,
+  b {
+    color: inherit;
+  }
+
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -47,6 +52,11 @@ table.table a {
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
+}
+
+.more-info a.profile-link-font {
+  font-family: 'Ubuntu Mono';
+  font-size: 0.8rem;
 }
 
 .table-dark {

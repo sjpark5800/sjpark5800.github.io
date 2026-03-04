@@ -2,33 +2,73 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
+  image_max_width: 220px
   image_circular: false # crops the image to make it circular
+  
+    #   <p><i class="fa-solid fa-location-dot"></i> Seoul, Republic of Korea</p>
+    # <br>
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
+    <p><i class="fa-solid fa-envelope"></i> <a class="profile-link-font" href="mailto:seojeong.park@kaist.ac.kr">seojeong.park@kaist.ac.kr</a></p>
+    <br>
+    <p><i class="fa-brands fa-linkedin"></i> <a class="profile-link-font" href="https://www.linkedin.com/in/seojeong-park-818284265" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+    <br>
+    <p><i class="fa-brands fa-github"></i> <a class="profile-link-font" href="https://github.com/sjpark5800" target="_blank" rel="noopener noreferrer">Github</a></p>
+    <br>
+    <p>&thinsp;<i class="ai ai-google-scholar"></i>&thinsp;&thinsp;&thinsp;&thinsp;<a class="profile-link-font" href="https://scholar.google.com/citations?user=r3eJ20UAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Ph.D. student at the Graduate School of AI at KAIST, advised by Prof. [Hyunjung Shim](https://kaist-cvml.github.io/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research primarily focuses on Multimodal Large Language Models (MLLMs), Evaluation of LLM, and Agentic AI. More recently, I am particularly interested in applying reinforcement learning and memory mechanisms to optimize agentic AI systems. Please feel free to reach out if you’d like to discuss anything.
+
+<!-- `Agentic AI` -->
+
+<br>
+
+### Education
+
+- Ph.D. in Graduate School of AI, **KAIST**, Seoul, Republic of Korea
+    - Advisor: Prof. Hyunjung Shim
+    - 2024.02 - Present 
+- B.S. in Computer Science, **Yonsei University**, Seoul, Republic of Korea
+    - 2020.03 - 2024.02
+
+
+<br>
+
+### Research Experiences
+- Research Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
+    - 2026.03 - Present
+- Research Intern, [Center for Artificial Intelligence, **KIST**](https://cai.kist.re.kr/), Seoul, Republic of Korea
+    - 2022.03 - 2022.08
+    <!-- - mentor : [Donghoon Kang](https://kimbabmoowoo.github.io/) -->
+
+
+<br>
+
+### Award
+- National Excellence Scholarship (Natural Sciences and Engineering), The Government of the Republic of Korea
+- 1st Prize in Food Image Classification, KT Genielabs Dev-Challenge
+- 1st Prize in Software Capstone Design, Yonsei University
+
+<br>
