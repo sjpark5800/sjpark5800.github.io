@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.png
+  image: my_prof_pic.png
   image_max_width: 220px
   image_circular:
     false # crops the image to make it circular
@@ -14,6 +14,7 @@ profile:
 
     #   <p><i class="fa-solid fa-location-dot"></i> Seoul, Republic of Korea</p>
     # <br>
+      # <p>&thinsp;<i class="ai ai-google-scholar"></i>&thinsp;&thinsp;&thinsp;&thinsp;<a class="profile-link-font" href="https://scholar.google.com/citations?user=r3eJ20UAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
   more_info: >
 
     <p><i class="fa-solid fa-envelope"></i> <a class="profile-link-font" href="mailto:seojeong.park@kaist.ac.kr">seojeong.park@kaist.ac.kr</a></p>
@@ -22,7 +23,7 @@ profile:
     <br>
     <p><i class="fa-brands fa-github"></i> <a class="profile-link-font" href="https://github.com/sjpark5800" target="_blank" rel="noopener noreferrer">Github</a></p>
     <br>
-    <p>&thinsp;<i class="ai ai-google-scholar"></i>&thinsp;&thinsp;&thinsp;&thinsp;<a class="profile-link-font" href="https://scholar.google.com/citations?user=r3eJ20UAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
+    <p><i class="ai ai-google-scholar"></i> <a class="profile-link-font" href="https://scholar.google.com/citations?user=r3eJ20UAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
