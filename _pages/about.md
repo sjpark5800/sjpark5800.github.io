@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof_pic.png
   image_max_width: 220px
-  image_circular: false # crops the image to make it circular
-  
+  image_circular:
+    false # crops the image to make it circular
+
+
     #   <p><i class="fa-solid fa-location-dot"></i> Seoul, Republic of Korea</p>
     # <br>
   more_info: >
@@ -36,7 +38,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 I am a Ph.D. student at the Graduate School of AI at KAIST, advised by Prof. [Hyunjung Shim](https://kaist-cvml.github.io/).
 
 My research primarily focuses on Multimodal Large Language Models (MLLMs), Evaluation of LLM, and Agentic AI. More recently, I am particularly interested in applying reinforcement learning and memory mechanisms to optimize agentic AI systems. Please feel free to reach out if you’d like to discuss anything.
@@ -48,25 +49,25 @@ My research primarily focuses on Multimodal Large Language Models (MLLMs), Evalu
 ### Education
 
 - Ph.D. in Graduate School of AI, **KAIST**, Seoul, Republic of Korea
-    - Advisor: Prof. Hyunjung Shim
-    - 2024.02 - Present 
+  - Advisor: Prof. Hyunjung Shim
+  - 2024.02 - Present
 - B.S. in Computer Science, **Yonsei University**, Seoul, Republic of Korea
-    - 2020.03 - 2024.02
-
+  - 2020.03 - 2024.02
 
 <br>
 
 ### Research Experiences
-- Research Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
-    - 2026.03 - Present
-- Research Intern, [Center for Artificial Intelligence, **KIST**](https://cai.kist.re.kr/), Seoul, Republic of Korea
-    - 2022.03 - 2022.08
-    <!-- - mentor : [Donghoon Kang](https://kimbabmoowoo.github.io/) -->
 
+- Research Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
+  - 2026.03 - 2026.06 (Expected)
+- Research Intern, [Center for Artificial Intelligence, **KIST**](https://cai.kist.re.kr/), Seoul, Republic of Korea
+  - 2022.03 - 2022.08
+  <!-- - mentor : [Donghoon Kang](https://kimbabmoowoo.github.io/) -->
 
 <br>
 
 ### Award
+
 - National Excellence Scholarship (Natural Sciences and Engineering), The Government of the Republic of Korea
 - 1st Prize in Food Image Classification, KT Genielabs Dev-Challenge
 - 1st Prize in Software Capstone Design, Yonsei University

@@ -30,10 +30,12 @@ cv_summary: >
         <i class="fa-solid fa-file-pdf"></i> Download PDF
       </a>
     {% endif %}
+
   </div>
 </div>
 
 {% if page.cv_pdf %}
+
   <iframe
     {% if page.cv_pdf contains '://' %}
       src="{{ page.cv_pdf }}"
