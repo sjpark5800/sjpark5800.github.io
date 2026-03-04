@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: my_prof_pic.png
+  image: my_prof_pic_2025.png
   image_max_width: 220px
   image_circular:
     false # crops the image to make it circular
@@ -14,7 +14,7 @@ profile:
 
     #   <p><i class="fa-solid fa-location-dot"></i> Seoul, Republic of Korea</p>
     # <br>
-      # <p>&thinsp;<i class="ai ai-google-scholar"></i>&thinsp;&thinsp;&thinsp;&thinsp;<a class="profile-link-font" href="https://scholar.google.com/citations?user=r3eJ20UAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
+    # <p>&thinsp;<i class="ai ai-google-scholar"></i>&thinsp;&thinsp;&thinsp;&thinsp;<a class="profile-link-font" href="https://scholar.google.com/citations?user=r3eJ20UAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer">Google Scholar</a></p>
   more_info: >
 
     <p><i class="fa-solid fa-envelope"></i> <a class="profile-link-font" href="mailto:seojeong.park@kaist.ac.kr">seojeong.park@kaist.ac.kr</a></p>
