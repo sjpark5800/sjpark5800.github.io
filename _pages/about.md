@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: my_prof_pic_2025.png
-  image_max_width: 220px
+  image_max_width: 180px
   image_circular:
     false # crops the image to make it circular
 
@@ -42,11 +42,18 @@ latest_posts:
 I am a Ph.D. student at the Graduate School of AI at KAIST, advised by Prof. [Hyunjung Shim](https://kaist-cvml.github.io/).
 
 My research primarily focuses on Multimodal Large Language Models (MLLMs), Evaluation of LLM, and Agentic AI. More recently, I am particularly interested in applying reinforcement learning and memory mechanisms to optimize agentic AI systems. Please feel free to reach out if you’d like to discuss anything.
+<br>
+<br>
+<br>
 
 <!-- `Agentic AI` -->
 
 <br>
+## Selected Publications
 
+{% include selected_papers.liquid %}
+
+<br>
 ### Education
 
 - Ph.D. in Graduate School of AI, **KAIST**, Seoul, Republic of Korea
@@ -59,7 +66,7 @@ My research primarily focuses on Multimodal Large Language Models (MLLMs), Evalu
 
 ### Research Experiences
 
-- Research Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
+- AI Engineer Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
   - 2026.03 - 2026.06 (Expected)
 - Research Intern, [Center for Artificial Intelligence, **KIST**](https://cai.kist.re.kr/), Seoul, Republic of Korea
   - 2022.03 - 2022.08

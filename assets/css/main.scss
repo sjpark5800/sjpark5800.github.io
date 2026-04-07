@@ -37,3 +37,24 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+:root {
+   --bs-body-font-family: "Raleway", sans-serif;
+   --bs-font-sans-serif: "Raleway", sans-serif;
+}
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea,
+.btn,
+.navbar,
+.nav,
+.dropdown-menu,
+.card,
+.popover,
+.tooltip {
+   font-family: "Raleway", sans-serif !important;
+}
