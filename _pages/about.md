@@ -66,7 +66,7 @@ My research primarily focuses on Multimodal Large Language Models (MLLMs), Evalu
 
 ### Research Experiences
 
-- AI Engineer Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
+- AI Scientist Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
   - 2026.03 - 2026.06 (Expected)
 - Research Intern, [Center for Artificial Intelligence, **KIST**](https://cai.kist.re.kr/), Seoul, Republic of Korea
   - 2022.03 - 2022.08
