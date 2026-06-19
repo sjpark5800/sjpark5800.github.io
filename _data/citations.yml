@@ -1,11 +1,15 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-06-12'
 papers:
   r3eJ20UAAAAJ:9yKSN-GCB0IC:
-    citations: 2
+    citations: 4
     title: 'PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation'
     year: '2025'
-  r3eJ20UAAAAJ:u-x6o8ySG0sC:
+  r3eJ20UAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
+    year: '2026'
+  r3eJ20UAAAAJ:UeHWp8X0CEIC:
     citations: 3
     title: MomentMix Augmentation with Length-Aware DETR for Temporally Robust Moment Retrieval
-    year: '2024'
+    year: '2026'
