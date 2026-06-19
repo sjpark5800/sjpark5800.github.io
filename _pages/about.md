@@ -39,45 +39,45 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student at the Graduate School of AI at KAIST, advised by Prof. [Hyunjung Shim](https://kaist-cvml.github.io/).
-
-My research primarily focuses on Multimodal Large Language Models (MLLMs), Evaluation of LLM, and Agentic AI. More recently, I am particularly interested in applying reinforcement learning and memory mechanisms to optimize agentic AI systems. Please feel free to reach out if you’d like to discuss anything.
-<br>
-<br>
 <br>
 
-<!-- `Agentic AI` -->
+I am a **Ph.D. student at the Graduate School of AI at <span style="color: #005dab;">KAIST</span>**, advised by Prof. [Hyunjung Shim](https://kaist-cvml.github.io/).
+
+My research interests lie in **reliable multimodal and agentic AI**.
+I study evidence-grounded evaluation for LLM-based judges, focusing on how evaluators use visual and contextual evidence when assessing model outputs. I am also interested in extending this perspective to trajectory-aware evaluation for agentic systems and scalable oversight.
 
 <br>
-## Selected Publications
 
-{% include selected_papers.liquid %}
-
-<br>
 ### Education
 
-- Ph.D. in Graduate School of AI, **KAIST**, Seoul, Republic of Korea
-  - Advisor: Prof. Hyunjung Shim
+- Ph.D. in Graduate School of AI, **<span style="color: #01438F;">KAIST</span>**, Seoul, Republic of Korea
+  - Advisor: Hyunjung Shim
   - 2024.02 - Present
-- B.S. in Computer Science, **Yonsei University**, Seoul, Republic of Korea
+- B.S. in Computer Science, **<span style="color: #003876;">Yonsei University</span>**, Seoul, Republic of Korea
   - 2020.03 - 2024.02
 
 <br>
 
-### Research Experiences
+### Research Experience
 
-- AI Scientist Intern, [EXAONE Lab, **LG AI Research**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
-  - 2026.03 - 2026.06 (Expected)
-- Research Intern, [Center for Artificial Intelligence, **KIST**](https://cai.kist.re.kr/), Seoul, Republic of Korea
+- AI Scientist Intern, [EXAONE Lab, **<span style="color: #C10C3F;">LG AI Research</span>**](https://www.lgresearch.ai/ourwork/research?tab=PF), Seoul, Republic of Korea
+  - 2026.03 - 2026.06
+- Research Intern, [Center for Artificial Intelligence, **<span style="color: #D61906;">KIST</span>**](https://cai.kist.re.kr/), Seoul, Republic of Korea
   - 2022.03 - 2022.08
   <!-- - mentor : [Donghoon Kang](https://kimbabmoowoo.github.io/) -->
 
 <br>
 
-### Award
+## Publications
 
-- National Excellence Scholarship (Natural Sciences and Engineering), The Government of the Republic of Korea
-- 1st Prize in Food Image Classification, KT Genielabs Dev-Challenge
-- 1st Prize in Software Capstone Design, Yonsei University
+{% include selected_papers.liquid %}
+
+<br>
+
+### Honors and Awards
+
+- 2020.03 - 2024.02: **National Excellence Scholarship (Natural Sciences and Engineering)**, The Government of the Republic of Korea
+- Spring 2020, Fall 2020, Spring 2023 : **Academic Excellence Award (Highest honors, Honors, Honors)**, Yonsei University
+- Spring 2023, Fall 2023: **Software Capstone Design (1st Prize, 1st Prize)**, Yonsei University
 
 <br>

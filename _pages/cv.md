@@ -7,7 +7,7 @@ nav_order: 5
 description: Curriculum Vitae
 cv_pdf: /assets/pdf/sjpark_CV.pdf # you can also use external links here
 cv_summary: >
-  CV up-to-date for 2026.02.
+  CV up-to-date for 2026.06.
 ---
 
 <div class="card mt-3 mb-3">
