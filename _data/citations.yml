@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-14'
 papers:
   r3eJ20UAAAAJ:9yKSN-GCB0IC:
     citations: 8
@@ -16,6 +16,10 @@ papers:
   r3eJ20UAAAAJ:UeHWp8X0CEIC:
     citations: 5
     title: MomentMix Augmentation with Length-Aware DETR for Temporally Robust Moment Retrieval
+    year: '2026'
+  r3eJ20UAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: K-EXAONE 2.0 Technical Report
     year: '2026'
   r3eJ20UAAAAJ:zYLM7Y9cAGgC:
     citations: 0
